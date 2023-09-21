@@ -4,7 +4,7 @@
 translate deutsch d16s01_66e01943:
 
     # sy "Oh shit, it compiled on the first try! That doesn't bode well..."
-    sy "Oh shit, it compiled on the first try! That doesn't bode well..."
+    sy "Oh Scheiße, es wurde beim ersten Versuch kompiliert! Das verheißt nichts Gutes..."
 
 # game/code/d16/d16s01.rpy:26
 translate deutsch d16s01_a20cefa7:
@@ -16,7 +16,7 @@ translate deutsch d16s01_a20cefa7:
 translate deutsch d16s01_a9a0ec0c:
 
     # sy "99 dastardly bugs in the code, 99 dastardly bugs. Take one down, patch it around, 110 dastardly bugs in the code..."
-    sy "99 dastardly bugs in the code, 99 dastardly bugs. Take one down, patch it around, 110 dastardly bugs in the code..."
+    sy "99 heimtückische Fehler im Code, 99 heimtückische Fehler. Einer weg, einer gefixt, 110 heimtückische Fehler im Code..."
 
 # game/code/d16/d16s01.rpy:39
 translate deutsch d16s01_a20cefa7_1:
