@@ -349,7 +349,7 @@ translate deutsch d17s05mo_8d26754f:
     mh "So... Who went to the bathroom most recently?"
 
 # game/code/d17/d17s05mo.rpy:189
-translate deutsch d17s05mo_bc9eef2a:
+translate deutsch d17s05mo_bc9eef2:
 
     # mc "I'm sorry, what?"
     mc "I'm sorry, what?"
